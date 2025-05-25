@@ -1,0 +1,6 @@
+C:\xampp\htdocs\project-pop\routes\api.php
+C:\xampp\htdocs\project-pop\routes\auth.php
+C:\xampp\htdocs\project-pop\routes\channels.php
+C:\xampp\htdocs\project-pop\routes\console.php
+C:\xampp\htdocs\project-pop\routes\file-list.txt
+C:\xampp\htdocs\project-pop\routes\web.php
