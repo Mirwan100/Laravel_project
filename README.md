@@ -13,11 +13,9 @@ Aplikasi ini dibangun untuk membantu pengelolaan data produk secara efisien dan 
 
 ## Tech Stack
 
-- **Backend**: Laravel (versi X.X)
-- **Frontend**: VueJs / ReactJs (sesuai yang digunakan)
+- **Backend**: Laravel (versi 9.5)
 - **Templating**: Blade
 - **Database**: MySQL / PostgreSQL
-- **Lainnya**: Axios, Laravel Mix, Bootstrap/Tailwind (jika digunakan)
 
 ## Struktur
 
@@ -25,7 +23,6 @@ Aplikasi ini dibangun untuk membantu pengelolaan data produk secara efisien dan 
 ├── app/
 ├── resources/
 │   ├── views/       # Blade templates
-│   └── js/          # VueJs/ReactJs components
 ├── routes/
 │   └── web.php      # Route endpoint
 ├── public/
