@@ -15,7 +15,7 @@ Aplikasi ini dibangun untuk membantu pengelolaan data produk secara efisien dan 
 
 - **Backend**: Laravel (versi 9.5)
 - **Templating**: Blade
-- **Database**: MySQL / PostgreSQL
+- **Database**: MySQL
 
 ## Struktur
 
