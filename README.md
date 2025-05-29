@@ -2,7 +2,7 @@
 
 Aplikasi ini dibangun untuk membantu pengelolaan data produk secara efisien dan interaktif. Fitur utama mencakup CRUD produk, pencarian, pagination, serta tampilan antarmuka yang responsif. Aplikasi dikembangkan menggunakan Laravel sebagai backend dan VueJs/ReactJs sebagai frontend, dengan Blade sebagai template dasar.
 
-## 🚀 Fitur Utama
+## Fitur Utama
 
 - Manajemen data produk (Create, Read, Update, Delete)
 - Pencarian produk berbasis kata kunci
@@ -11,7 +11,7 @@ Aplikasi ini dibangun untuk membantu pengelolaan data produk secara efisien dan 
 - Tampilan responsif (desktop & mobile)
 - API RESTful yang terstruktur
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - **Backend**: Laravel (versi X.X)
 - **Frontend**: VueJs / ReactJs (sesuai yang digunakan)
@@ -19,7 +19,7 @@ Aplikasi ini dibangun untuk membantu pengelolaan data produk secara efisien dan 
 - **Database**: MySQL / PostgreSQL
 - **Lainnya**: Axios, Laravel Mix, Bootstrap/Tailwind (jika digunakan)
 
-## 📂 Struktur Proyek (Singkat)
+## Struktur
 
 ```
 ├── app/
@@ -33,12 +33,11 @@ Aplikasi ini dibangun untuk membantu pengelolaan data produk secara efisien dan 
 │   ├── migrations/  # Struktur tabel
 ```
 
-## 📦 Instalasi
+## Instalasi
 
 1. Clone repo ini
    ```bash
-   git clone https://github.com/username/nama-project.git
-   cd nama-project
+   git clone https://github.com/Mirwan100/Laravel_project
    ```
 
 2. Install dependency Laravel
@@ -67,11 +66,7 @@ Aplikasi ini dibangun untuk membantu pengelolaan data produk secara efisien dan 
    php artisan serve
    ```
 
-## 📸 Screenshot
-
-> Sertakan 1–2 gambar antarmuka aplikasi
-
-## 📌 Catatan Tambahan
+## Catatan Tambahan
 
 - Aplikasi dapat dikembangkan lebih lanjut dengan fitur seperti upload gambar produk, autentikasi pengguna, dan export data.
 
