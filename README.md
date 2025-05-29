@@ -1,6 +1,6 @@
 # Aplikasi Manajemen Data Produk
 
-Aplikasi ini dibangun untuk membantu pengelolaan data produk secara efisien dan interaktif. Fitur utama mencakup CRUD produk, pencarian, pagination, serta tampilan antarmuka yang responsif. Aplikasi dikembangkan menggunakan Laravel sebagai backend dan VueJs/ReactJs sebagai frontend, dengan Blade sebagai template dasar.
+Aplikasi ini dibangun untuk membantu pengelolaan data produk secara efisien dan interaktif. Fitur utama mencakup CRUD produk, pencarian, pagination, serta tampilan antarmuka yang responsif. Aplikasi dikembangkan menggunakan Laravel sebagai backend dan Blade sebagai frontend.
 
 ## Fitur Utama
 
